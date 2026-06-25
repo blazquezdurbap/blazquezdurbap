@@ -20,6 +20,6 @@ My approach as an engineer is multidisciplinary: I love understanding the comple
 * **Technical Reports:** Overleaf / LaTeX.
 * **Data Analysis:** Statgraphics.
 
-## 📫 Let's connect!
+## 📫 Connect with me!
 * **LinkedIn:** [linkedin.com/in/blazquezdurbapablo](https://www.linkedin.com/in/blazquezdurbapablo)
 * **Email:** blazquezdurbapablo@gmail.com
