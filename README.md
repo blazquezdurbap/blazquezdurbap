@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi! I'm Pablo Blázquez Durbá 👋🚀
 
-<!--
-**blazquezdurbap/blazquezdurbap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **2nd-year Aerospace Engineering student** at the Universitat Politècnica de València (UPV). I am highly passionate about aerodynamics, avionics, and aeronautical structural design.
 
-Here are some ideas to get you started:
+I worked in the **HORUS UPV** project, where I participate in the 3D design and structural analysis of autonomous Unmanned Aerial Vehicles (UAVs). My main goal was achieving maximum efficiency and weight reduction through the use of composite materials.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My approach as an engineer is multidisciplinary: I love understanding the complete system, from the low-level code controlling a microcontroller to the physical and aerodynamic CAD model.
+
+## 🛠️ Tech Stack & Tools
+
+### Programming & Control
+* **C / Bare-Metal:** Low-level programming, direct register manipulation, and interrupt handling (AVR family / ATmega328P).
+* **MATLAB & Mathematica:** Numerical methods programming, matrix calculus, and differential equations solving.
+
+### CAD & Mechanical Simulation
+* **3D Design:** SolidWorks (Optimization of aeronautical components and structures).
+* **Electronics:** Proteus Design Suite.
+
+### Documentation & Analysis
+* **Technical Reports:** Overleaf / LaTeX.
+* **Data Analysis:** Statgraphics.
+
+## 📫 Let's connect!
+* **LinkedIn:** [linkedin.com/in/blazquezdurbapablo](https://www.linkedin.com/in/blazquezdurbapablo)
+* **Email:** blazquezdurbapablo@gmail.com
